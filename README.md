@@ -12,39 +12,28 @@ I'm a student with a passion for backend software development. I'm fluent in bot
 
 - 🚀 Backend technologies: Sinatra,Spring boot, Flask
 - 🛢️ Databases: PostgreSQL, MySQL, Oracle
-- 🛠️ Tools: Git
+- 🛠️ Tools: Git,JetBrains IDE
 
 ## Projects
 
 Here are some of the projects I'm working on:
 
-1. **Project Name 1**
-   - Description: A brief project description.
-   - [Link to the repo](link-to-repo)
+1. **dtb_object orm**
+   - Description: It's a ligthweight orm who use the power of OOP .
+   - [Link to the repo](https://github.com/ovoc01/dtbobject_framework)
 
-2. **Project Name 2**
-   - Description: Another project description.
-   - [Link to the repo](link-to-repo)
+2. **scorpion**
+   - Description: It's a ligthweight web framework inspired by Spring boot .
+   - [Link to the repo](https://github.com/ovoc01/frameworks)
 
-3. **Project Name 3**
-   - Description: Yet another project description.
-   - [Link to the repo](link-to-repo)
 
 Feel free to explore my repositories for more!
 
 ## Contact Me
 
 - 📧 Email: [razafindrasoavamirindra@gmail.com](mailto:razafindrasoavamirindra@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-
 Let's connect and collaborate!
 
-
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ovoc01&show_icons=true&theme=dark)](https://github.com/ovoc01)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovoc01&show_icons=true&theme=dark)](https://github.com/ovoc01)
 <!--
 **ovoc01/ovoc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
