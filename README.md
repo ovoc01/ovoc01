@@ -14,3 +14,5 @@ Here are some of the projects I'm working on:
 
 - 📧 Email: [razafindrasoavamirindra@gmail.com](mailto:razafindrasoavamirindra@gmail.com)
 Let's connect and collaborate!
+
+[![Ovoc01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovoc01)](https://github.com/anuraghazra/github-readme-stats)
